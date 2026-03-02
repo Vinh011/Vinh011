@@ -216,10 +216,35 @@
 ---
 
 
+
 ## 🌐 CTF & CP Profiles
-<!-- <p align="center"> 
-<!-- CTF Platforms --> <a href="https://tryhackme.com/p/haduylong"> <img src="https://img.shields.io/badge/TryHackMe-Profile-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/> </a> <a href="https://play.picoctf.org/users/longhd"> <img src="https://img.shields.io/badge/picoCTF-Profile-8A2BE2?style=for-the-badge&logo=circle&logoColor=white" alt="picoCTF Badge"/> </a> <a href="https://dreamhack.io/users/78834"> <img src="https://img.shields.io/badge/DreamHack-Profile-8A2BE2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DreamHack Badge"/> </a> <a href="https://app.hackthebox.com/profile"> <img src="https://img.shields.io/badge/Hack_The_Box-Profile-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Badge"/> </a> <br/> 
-<!-- Competitive Platforms --> <a href="https://codeforces.com/profile/TYP_LongHD"> <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/> </a> <a href="https://leetcode.com/u/DuyLonggg/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/> </a> <a href="https://www.hackerrank.com/profile/haduylong"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/> </a> </p> -->
+
+<!--
+<p align="center"> 
+  <a href="https://tryhackme.com/p/haduylong">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
+  </a>
+  <a href="https://play.picoctf.org/users/longhd">
+    <img src="https://img.shields.io/badge/picoCTF-Profile-8A2BE2?style=for-the-badge&logo=circle&logoColor=white" alt="picoCTF Badge"/>
+  </a>
+  <a href="https://dreamhack.io/users/78834">
+    <img src="https://img.shields.io/badge/DreamHack-Profile-8A2BE2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DreamHack Badge"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Badge"/>
+  </a>
+  <br/> 
+  <a href="https://codeforces.com/profile/TYP_LongHD">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/DuyLonggg/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/haduylong">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</p>
+-->
 
 
 ---
