@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=header"/>
 
 
-<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+H%C3%A0+Duy+Long;An+Information+Security+Student" alt="Typing SVG">
+<img width="460" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=WELCOME+TO+MY+GITHUB;I'M+Tr%C6%B0%C6%A1ng+%C4%90%E1%BB%A9c+Vinh;An+Information+Security+Student" alt="Typing SVG">
 
  ![Vietnam](https://img.shields.io/badge/%F0%9F%87%BB%F0%9F%87%B3-Vietnam-red?style=for-the-badge)
 
